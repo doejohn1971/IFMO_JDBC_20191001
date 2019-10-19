@@ -5,4 +5,6 @@
 Fill sql queries in `com.efimchick.ifmo.web.jdbc.SqlQueries`.
 
 Comment above the query field describes what that query should select. 
+
+Just useless change
  
